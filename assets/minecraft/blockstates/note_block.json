@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "instrument=banjo,note=0,powered=false": {
+      "model": "block/note_block"
+    },
+    "instrument=banjo,note=0,powered=true": {
+      "model": "block/note_block"
+    },
+    "instrument=banjo,note=1,powered=false": {
+      "model": "block/example"
+    },
+    "instrument=banjo,note=1,powered=true": {
+      "model": "block/example"
+    }
+  }
+}
